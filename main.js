@@ -6,7 +6,7 @@
     if(automaticSize){
       var calculatedSize = Math.ceil((rect.width / window.outerWidth) * 100);
       calculatedSize = calculatedSize+"vw";
-      dom.setAttribute("size",calculatedSize);
+      dom.setAttribute("sizes",calculatedSize);
     }
     dom.setAttribute("srcset",dom.getAttribute('data-srcset'));
   }
