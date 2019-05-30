@@ -5,4 +5,4 @@ It uses srcset to find the optimal image size and provides an automated `size` a
 
 # Demo
 
-Clone the repository and open "demo.html"
+Clone the repository and open `demo.html`.
