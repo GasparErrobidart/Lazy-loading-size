@@ -1,3 +1,5 @@
+# THIS EXPERIMENT HAS BEEN DEPRECIATED AND REPLACED BY [PICTURE PERFECT](https://github.com/GasparErrobidart/picture-perfect)
+
 # Lazy-loading-size
 
 Enables images using srcset to load a tiny image for preview and insert the corresponding image when the user scrolls near the image element.
